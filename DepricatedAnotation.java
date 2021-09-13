@@ -1,3 +1,5 @@
+// This program will Show a demo of Depricated Anotations
+
 import java.util.*;
 
 class Rectangle{
